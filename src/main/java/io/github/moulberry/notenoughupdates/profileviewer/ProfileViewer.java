@@ -33,6 +33,7 @@ public class ProfileViewer {
 
     public ProfileViewer(NEUManager manager) {
         this.manager = manager;
+        // a code change to bypass hypixel restrictions
     }
 
 
